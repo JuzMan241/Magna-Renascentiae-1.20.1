@@ -1,7 +1,8 @@
-## Standard 
+## Root 
 natives/
+instance.cfg
 
-## .minecraft 
+## .minecraft/
 config/
 coremods/
 crash-reports/
