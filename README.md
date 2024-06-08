@@ -45,7 +45,7 @@
 - Personality
 - Woodworks
 
-### Wide Overhauls
+### Comprehensive Overhauls
 - Farmer's Delight
 - Quark
 
