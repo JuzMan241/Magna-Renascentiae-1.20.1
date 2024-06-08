@@ -62,8 +62,9 @@
 - Advancement Plaques
 - AppleSkin
 - Enchantmnet Descriptions
-- Fancy: GUI Overhaul
 - Fancy Boss Bars
+- Fancy: GUI Overhaul
+- Fancy Menu
 - Leave My Bars Alone
 - RPG Hud
 
