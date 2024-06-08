@@ -18,3 +18,4 @@ instance.cfg
 .minecraft/usercache.json
 .minecraft/usernamecache.json
 .minecraft/.qmenu_opened.marker
+.minecraft/mods/jei-1.20.1-forge-15.3.0.4.jar
