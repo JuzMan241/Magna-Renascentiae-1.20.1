@@ -1,0 +1,20 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-06-07 10:56:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2024-06-07 10:58:17 -0400",
+      "minecraft:stony_shore": "2024-06-07 10:58:38 -0400",
+      "minecraft:forest": "2024-06-07 10:56:53 -0400",
+      "minecraft:ocean": "2024-06-07 10:58:41 -0400",
+      "minecraft:flower_forest": "2024-06-07 10:58:36 -0400",
+      "minecraft:plains": "2024-06-07 10:57:04 -0400"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
