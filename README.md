@@ -28,9 +28,25 @@ Recipe Essentials
 Smoothchunk
 
 ### Flora, Fauna, and Terrain
+Alex's Mobs
 Biomes O' Plenty
+Floral Flair
 Upgrade Aquatic
-Quark
-Alex's Mods
 
 ### Vanilla Feature Expansions
+Allurement
+Apotheosis
+Berry Good
+Boatload
+Buzzier Bees
+Clayworks
+Farmer's Delight
+Incubation
+Personality
+Woodworks
+
+### Wide Overhauls
+Farmer's Delight
+Quark
+
+### Compatibility and Consistency Mods
