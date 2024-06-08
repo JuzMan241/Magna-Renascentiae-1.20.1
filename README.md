@@ -35,6 +35,7 @@
 
 ### Vanilla Feature Expansions
 - Allurement
+- Ammendments
 - Apotheosis
 - Berry Good
 - Boatload
@@ -46,6 +47,7 @@
 - Incubation
 - Personality
 - Realistic Horse Genetics
+- Supplementaries
 - Woodworks
 
 ### Comprehensive Overhauls
