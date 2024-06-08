@@ -19,4 +19,4 @@ instance.cfg
 .minecraft/usernamecache.json
 .minecraft/.qmenu_opened.marker
 .minecraft/mods/jei-1.20.1-forge-15.3.0.4.jar
-.minecraft/fancymenu_data/last_world.fmdata
+.minecraft/fancymenu_data/
