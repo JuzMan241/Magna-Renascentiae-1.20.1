@@ -39,11 +39,15 @@
 - Berry Good
 - Boatload
 - Buzzier Bees
+- Callable Horses
 - Clayworks
 - Domestication Innovation
 - Farmer's Delight
+- Horse Tack
 - Incubation
 - Personality
+- Netherite Horse Armor
+- Realistic Horse Genetics
 - Woodworks
 
 ### Comprehensive Overhauls
@@ -51,3 +55,6 @@
 - Quark
 
 ### Compatibility and Consistency Mods
+
+### UI and UX
+- Leave My Bars Alone
