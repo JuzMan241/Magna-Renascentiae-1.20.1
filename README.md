@@ -40,6 +40,7 @@
 - Boatload
 - Buzzier Bees
 - Clayworks
+- Domestication Innovation
 - Farmer's Delight
 - Incubation
 - Personality
