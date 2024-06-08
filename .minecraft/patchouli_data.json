@@ -1,0 +1,19 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "apotheosis:apoth_chronicle": {
+      "viewedEntries": [
+        "apotheosis:adventure/attributes/armor_pierce",
+        "apotheosis:adventure/bosses/boss_dungeons",
+        "apotheosis:adventure/bosses/surface_bosses",
+        "apotheosis:adventure/bosses/minibosses",
+        "apotheosis:adventure/bosses/boss_items",
+        "apotheosis:adventure/rogue_spawners/brutal_spawners",
+        "apotheosis:adventure/rogue_spawners/swarm_spawners"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}
