@@ -3,18 +3,18 @@ natives/
 instance.cfg
 
 ## .minecraft/
-config/
-coremods/
-crash-reports/
-logs/
-modernfix/
-resourcepacks/
-saves/
-screenshots/
-server-resource-packs/
-shaderpacks/
-texturepacks/
-options.txt
-usercache.json
-usernamecache.json
-
+.minecraft/config/
+.minecraft/coremods/
+.minecraft/crash-reports/
+.minecraft/logs/
+.minecraft/modernfix/
+.minecraft/resourcepacks/
+.minecraft/saves/
+.minecraft/screenshots/
+.minecraft/server-resource-packs/
+.minecraft/shaderpacks/
+.minecraft/texturepacks/
+.minecraft/options.txt
+.minecraft/usercache.json
+.minecraft/usernamecache.json
+.minecraft/.qmenu_opened.marker
