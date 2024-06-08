@@ -19,6 +19,7 @@
 - Fast Async World Save
 - Fastload
 - FerriteCore
+- Fastsuite
 - GPU Memory Leak Fix
 - Krypton Reforged
 - Limited Chunks
@@ -27,10 +28,11 @@
 - Recipe Essentials
 - Smoothchunk
 
-### Flora, Fauna, and Terrain
+### Flora, Fauna, and Worldgen
 - Alex's Mobs
 - Biomes O' Plenty
 - Floral Flair
+- Structory
 - Upgrade Aquatic
 
 ### Vanilla Feature Expansions
@@ -57,6 +59,13 @@
 ### Compatibility and Consistency Mods
 
 ### UI
+- Advancement Plaques
+- AppleSkin
+- Enchantmnet Descriptions
+- Fancy: GUI Overhaul
+- Fancy Boss Bars
 - Leave My Bars Alone
+- RPG Hud
 
 ### UX
+- HT's TreeChop
