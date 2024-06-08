@@ -31,7 +31,7 @@ craftingTable.addShapedMirrored("diamond_horse_armor1", MirrorAxis.HORIZONTAL, <
 ]);
 
 craftingTable.remove(<item:netherite_horse_armor:netherite_horse_armor>);
-craftingTable.addShapedMirrored("netherite_horse_armor1", MirrorAxis.HORIZONTAL, <item:netherite_horse_armor:netherite_horse_armor>, [
+craftingTable.addShapedMirrored("netherite_horse_armor1", MirrorAxis.HORIZONTAL, <item:horse_colors:netherite_horse_armor>, [
     [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:netherite_ingot>],
     [<item:minecraft:netherite_ingot>, <item:quark:bonded_leather>, <item:minecraft:netherite_ingot>],
     [<item:minecraft:netherite_ingot>, <item:minecraft:netherite_ingot>, <item:minecraft:netherite_ingot>]

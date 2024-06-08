@@ -43,10 +43,8 @@
 - Clayworks
 - Domestication Innovation
 - Farmer's Delight
-- Horse Tack
 - Incubation
 - Personality
-- Netherite Horse Armor
 - Realistic Horse Genetics
 - Woodworks
 
@@ -56,5 +54,7 @@
 
 ### Compatibility and Consistency Mods
 
-### UI and UX
+### UI
 - Leave My Bars Alone
+
+### UX
