@@ -1,0 +1,19 @@
+## Standard 
+natives/
+
+## .minecraft 
+config/
+coremods/
+crash-reports/
+logs/
+modernfix/
+resourcepacks/
+saves/
+screenshots/
+server-resource-packs/
+shaderpacks/
+texturepacks/
+options.txt
+usercache.json
+usernamecache.json
+
