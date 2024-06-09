@@ -41,6 +41,6 @@ craftingTable.addShapedMirrored("netherite_horse_armor1", MirrorAxis.HORIZONTAL,
 craftingTable.remove(<item:minecraft:saddle>);
 craftingTable.addShaped("saddle1", <item:minecraft:saddle>, [
     [<item:minecraft:leather>, <item:minecraft:leather>, <item:minecraft:leather>],
-    [<item:minecraft:leather>, <item:farmersdelight:rope>, <item:minecraft:leather>],
+    [<item:minecraft:leather>, <tag:items:supplementaries:ropes>, <item:minecraft:leather>],
     [<item:minecraft:tripwire_hook>,<item:minecraft:air>, <item:minecraft:tripwire_hook>]
 ]);

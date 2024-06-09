@@ -76,4 +76,5 @@
 
 ### UX
 - HT's TreeChop
-- Inventory Essentials
+- Inventory Essentials-
+- Map Atlases
