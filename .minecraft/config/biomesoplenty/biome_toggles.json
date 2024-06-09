@@ -34,7 +34,7 @@
   "old_growth_woodland_enabled": true,
   "ominous_woods_enabled": false,
   "orchard_enabled": true,
-  "origin_valley_enabled": true,
+  "origin_valley_enabled": false,
   "pasture_enabled": true,
   "prairie_enabled": true,
   "pumpkin_patch_enabled": true,
