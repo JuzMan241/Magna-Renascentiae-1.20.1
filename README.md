@@ -61,12 +61,18 @@
 ### UI
 - Advancement Plaques
 - AppleSkin
+- Catalogue
+- Configured
+- Controlling
 - Enchantmnet Descriptions
 - Fancy Boss Bars
 - Fancy: GUI Overhaul
 - Fancy Menu
+- Inventory HUD
 - Leave My Bars Alone
+- Legendary Tooltips
 - RPG Hud
 
 ### UX
 - HT's TreeChop
+- Inventory Essentials
