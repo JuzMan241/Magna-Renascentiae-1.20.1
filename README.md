@@ -69,7 +69,6 @@
 - Fancy Boss Bars
 - Fancy: GUI Overhaul
 - Fancy Menu
-- Inventory HUD
 - Leave My Bars Alone
 - Legendary Tooltips
 - RPG Hud
