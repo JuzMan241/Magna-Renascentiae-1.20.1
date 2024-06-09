@@ -78,3 +78,4 @@
 - HT's TreeChop
 - Inventory Essentials-
 - Map Atlases
+- Spice of Life
