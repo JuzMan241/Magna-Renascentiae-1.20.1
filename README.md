@@ -48,6 +48,7 @@
 - Domestication Innovation
 - Farmer's Delight
 - Incubation
+- More Villagers
 - Personality
 - Realistic Horse Genetics
 - Supplementaries
@@ -75,6 +76,7 @@
 - Neko's Enchanted Books
 
 ### UX
+- Backpacked
 - HT's TreeChop
 - Inventory Essentials-
 - Map Atlases
