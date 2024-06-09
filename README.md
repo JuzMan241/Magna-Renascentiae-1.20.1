@@ -45,20 +45,20 @@
 - Buzzier Bees
 - Callable Horses
 - Clayworks
+- Decorative Blocks
 - Domestication Innovation
 - Farmer's Delight
 - Incubation
 - More Villagers
 - Personality
 - Realistic Horse Genetics
+- Spice of Life
 - Supplementaries
 - Woodworks
 
 ### Comprehensive Overhauls
 - Farmer's Delight
 - Quark
-
-### Compatibility and Consistency Mods
 
 ### UI
 - Advancement Plaques
@@ -79,4 +79,6 @@
 - HT's TreeChop
 - Inventory Essentials-
 - Map Atlases
-- Spice of Life
+
+### Compatibility and Consistency Mods
+- Every Compat (Wood Good)
