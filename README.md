@@ -27,6 +27,7 @@
 - Memory Leak Fix
 - Recipe Essentials
 - Smoothchunk
+- Structure Essentials
 
 ### Flora, Fauna, and Worldgen
 - Alex's Mobs
