@@ -8,7 +8,6 @@ instance.cfg
 .minecraft/crash-reports/
 .minecraft/logs/
 .minecraft/modernfix/
-.minecraft/resourcepacks/
 .minecraft/saves/
 .minecraft/screenshots/
 .minecraft/server-resource-packs/
