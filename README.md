@@ -72,6 +72,7 @@
 - Leave My Bars Alone
 - Legendary Tooltips
 - RPG Hud
+- Neko's Enchanted Books
 
 ### UX
 - HT's TreeChop
