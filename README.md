@@ -34,6 +34,7 @@
 - Alex's Caves
 - Biomes O' Plenty
 - Floral Flair
+- Geophilliic
 - Repurposed Structures
 - Structory
 - Upgrade Aquatic
