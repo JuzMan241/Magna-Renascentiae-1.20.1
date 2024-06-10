@@ -31,8 +31,10 @@
 
 ### Flora, Fauna, and Worldgen
 - Alex's Mobs
+- Alex's Caves
 - Biomes O' Plenty
 - Floral Flair
+- Repurposed Structures
 - Structory
 - Upgrade Aquatic
 
@@ -40,8 +42,9 @@
 - Allurement
 - Ammendments
 - Apotheosis
-- Berry Good
 - Boatload
+- Berry Good
+- Better Beacons
 - Buzzier Bees
 - Callable Horses
 - Clayworks
@@ -76,9 +79,12 @@
 
 ### UX
 - Backpacked
+- Charm of Undying
+- Elytra Slot
 - HT's TreeChop
-- Inventory Essentials-
+- Inventory Essentials
 - Map Atlases
 
 ### Compatibility and Consistency Mods
+- Alex's Delight
 - Every Compat (Wood Good)
