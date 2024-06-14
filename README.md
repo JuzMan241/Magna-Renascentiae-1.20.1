@@ -62,6 +62,7 @@
 - Spice of Life
 - Supplementaries
 - Woodworks
+- Yung's Mods
 
 ### Comprehensive Overhauls
 - Farmer's Delight
