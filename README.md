@@ -89,9 +89,11 @@
 ### UX
 - Backpacked
 - Charm of Undying
+- Cut Through
 - Elytra Slot
 - HT's TreeChop
 - Inventory Essentials
+- Klee Slabs
 - Map Atlases
 
 ### Compatibility and Consistency Mods
