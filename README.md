@@ -58,6 +58,7 @@
 - More Villagers
 - Personality
 - Realistic Horse Genetics
+- Savage Ender Dragon
 - Spice of Life
 - Supplementaries
 - Woodworks
