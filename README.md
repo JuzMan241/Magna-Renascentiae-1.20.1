@@ -13,6 +13,7 @@
 - Client Crafting
 - Clumps
 - Connectivity
+- Cull Less Leaves Reforged
 - Dynamic View
 - Embeddium
 - Embeddium++
@@ -21,6 +22,7 @@
 - FerriteCore
 - Fastsuite
 - GPU Memory Leak Fix
+- Immediately Fast
 - Krypton Reforged
 - Limited Chunks
 - Log Begone
@@ -89,3 +91,4 @@
 ### Compatibility and Consistency Mods
 - Alex's Delight
 - Every Compat (Wood Good)
+- Extra Compat
