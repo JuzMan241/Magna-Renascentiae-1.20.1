@@ -79,6 +79,8 @@
 - Leave My Bars Alone
 - Legendary Tooltips
 - Neko's Enchanted Books
+- Toast Control
+- Yeetus Experimentus
 
 ### UX
 - Backpacked
