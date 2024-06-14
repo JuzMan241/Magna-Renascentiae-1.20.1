@@ -78,6 +78,8 @@
 - Fancy Boss Bars
 - Fancy: GUI Overhaul
 - Fancy Menu
+- Highlighter
+- Inventory HUD+
 - Leave My Bars Alone
 - Legendary Tooltips
 - Neko's Enchanted Books
