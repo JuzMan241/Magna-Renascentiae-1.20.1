@@ -96,5 +96,7 @@
 
 ### Compatibility and Consistency Mods
 - Alex's Delight
+- Delightful
 - Every Compat (Wood Good)
 - Extra Compat
+- Quark Delight
