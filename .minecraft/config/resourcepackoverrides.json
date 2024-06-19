@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "failed_reloads_per_session": 5,
+  "default_packs": [
+    "file/Fancy Boss Bars v0.1.1.zip",
+    "file/Fancy, GUI Overhaul v0.1.2.8 (Dark).zip",
+    "file/Better Gravestones.zip",
+    "file/Stay True Compats v7 [1.19].zip",
+    "file/Stay_True_1.20.zip",
+    "Moonlight Mods Dynamic Assets",
+    "mod_resources"
+  ],
+  "default_overrides": {
+    "force_compatible": true
+  },
+  "pack_overrides": {
+    "vanilla": {
+      "title": "\"Modpack & Vanilla Assets\"",
+      "description": "\"Resource pack from Minecraft and Mods\""
+    },
+    "server": {
+      "default_position": "BOTTOM",
+      "force_compatible": true,
+      "fixed_position": false
+    },
+    "MagnaRenascentiaeResources": [
+      "file/Fancy Boss Bars v0.1.1.zip",
+      "file/Better Gravestones.zip",
+      "Moonlight Mods Dynamic Assets",
+      "mod_resources"
+    ],
+    "$$MagnaRenascentiaeResources": {
+      "hidden": true,
+      "required": true
+    }
+  }
+}
