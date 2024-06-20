@@ -118,3 +118,10 @@
 - Extra Compat
 - Quark Delight
 - Smarter Farmers
+
+## Optifine Replacements & Graphics
+- Athena
+- Entity Texture Features
+- Entity Model Features
+- Glass Panes CTM Fix
+- MC Connected CTM

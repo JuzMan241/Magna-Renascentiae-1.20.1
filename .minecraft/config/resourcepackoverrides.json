@@ -2,13 +2,15 @@
   "schema_version": 2,
   "failed_reloads_per_session": 5,
   "default_packs": [
-    "file/Fancy Boss Bars v0.1.1.zip",
+    "mod_resources",
+    "Moonlight Mods Dynamic Assets",
+    "file/MC Connected CTM v1.4-1.19.4.zip",
+    "file/Glass Panes CTM Fix 1.20.1-1.0.zip",
     "file/Fancy, GUI Overhaul v0.1.2.8 (Dark).zip",
     "file/Better Gravestones.zip",
-    "file/Stay True Compats v7 [1.19].zip",
     "file/Stay_True_1.20.zip",
-    "Moonlight Mods Dynamic Assets",
-    "mod_resources"
+    "file/Stay True Compats v7 [1.19].zip",
+    "file/Fancy Boss Bars v0.1.1.zip"
   ],
   "default_overrides": {
     "force_compatible": true
@@ -24,10 +26,12 @@
       "fixed_position": false
     },
     "MagnaRenascentiaeResources": [
-      "file/Fancy Boss Bars v0.1.1.zip",
-      "file/Better Gravestones.zip",
+      "mod_resources",
       "Moonlight Mods Dynamic Assets",
-      "mod_resources"
+      "file/MC Connected CTM v1.4-1.19.4.zip",
+      "file/Glass Panes CTM Fix 1.20.1-1.0.zip",
+      "file/Better Gravestones.zip",
+      "file/Fancy Boss Bars v0.1.1.zip"
     ],
     "$$MagnaRenascentiaeResources": {
       "hidden": true,
