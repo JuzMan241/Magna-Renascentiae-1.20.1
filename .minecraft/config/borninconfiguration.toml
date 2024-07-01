@@ -535,7 +535,7 @@
 	#Whether Nightmare Stalker has its base immunity to certain things
 	STALKER_IMMUNITY_ENABLED = true
 	#.
-	NIGHTMARE_SPAWN_ENABLED = true
+	NIGHTMARE_SPAWN_ENABLED = false
 	#.
 	#Range: 0.0 ~ 1.7976931348623157E308
 	NIGHTMARE_STALKER_ARMOR = 4.0
