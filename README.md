@@ -33,9 +33,9 @@
 
 ### Flora, Fauna, and Worldgen
 - Alex's Mobs
-- Alex's Caves
 - Biomes O' Plenty
 - Floral Flair
+- Friends&Foes
 - Geophilliic
 - Repurposed Structures
 - Structory
@@ -69,6 +69,7 @@
 - Supplementaries
 - Universal Bone Meal
 - Vein Mining
+- Villager Transportation
 - Woodworks
 - Yung's Mods
 
@@ -123,5 +124,3 @@
 - Athena
 - Entity Texture Features
 - Entity Model Features
-- Glass Panes CTM Fix
-- MC Connected CTM
